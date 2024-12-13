@@ -16,8 +16,8 @@ This project is a Node.js-based API server that fetches nutritional information 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/C242-PS525/backend-fruit-nutri.git
+   cd fruit-nutri
    ```
 
 2. Install dependencies:
@@ -182,8 +182,8 @@ Frulens-API/
 ## Cara Menjalankan di Lokal
 1. **Clone repository**
    ```bash
-   git clone <repository-url>
-   cd Frulens-API
+   git clone https://github.com/C242-PS525/backend-fruit-nutri.git
+   cd backend
    ```
 
 2. **Install dependencies**
